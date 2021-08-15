@@ -1,0 +1,113 @@
+*navbar{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    background-color: #4667ac;
+    color: white;
+    justify-content: center;
+    
+
+}
+.imgs{
+    /* width: 200px; */
+    /* margin-left: 200px; */
+
+}
+.forms{
+    margin-left: 260px;
+    margin-top: 25px;
+}
+label{
+    font-family: 'Tajawal', sans-serif;
+}
+input{
+    border: black;
+}
+
+/* signup */
+.container{
+    background-color: #ebedf0;
+    margin-top: -22px;
+}
+*.title{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    }
+.title{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 40px;
+    
+}
+*.stitle{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+.stitle{
+    display: flex;
+    margin-left:-15.5rem ;
+    justify-content: center;
+}
+
+/* signup form  */
+
+.detail{
+    display: inline-block;
+    width: 40%;
+    margin-top: 10px;
+    position: relative;
+    margin-left: 32%;
+    padding: 12px;
+}
+.in{
+    padding: 12px;
+    margin: 4px;
+    width: 215px;
+}
+.ine{
+    padding: 12px;
+    margin: 4px;
+    width: 88%;
+}
+.inp{
+    padding: 12px;
+    margin: 4px;
+    width: 88%;
+}
+.dt{
+    margin-left: 5px;
+    opacity: 0.8;
+}
+.gn{
+    margin-top: 3px;
+    margin-left: 5px;
+    font-size: 17px;
+    margin-bottom: 4px;
+    opacity: 0.6;
+}
+.ing{
+    margin-left: 5px;
+}
+.img1{
+    width: 20px;
+}
+#des{
+    font-size: 9px;
+    width: 43%;
+    margin-left: 7px;
+    opacity: 0.6;
+}
+.bt{
+    margin-left: 5px;
+    padding: 12px;
+    width: 20%;
+    background: linear-gradient(#79bc64, #578843);
+    border-radius: 5px;
+    color: white;
+}
